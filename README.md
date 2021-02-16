@@ -4,7 +4,7 @@
 ## Github Actions 部署指南
 
 ### 一、Fork 此仓库
-<center><img src="https://www.helloimg.com/images/2021/02/16/B9hPIr.png" alt="1.png" title="1.png" /></center>
+<center><img src="http://i.klyi.net/tk/2021/02/16/bgk6fbxx.png" alt="1.png" title="1.png" /></center>
 
 
 
