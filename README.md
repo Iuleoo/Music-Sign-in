@@ -28,7 +28,7 @@
 >
 > 能看到如下图所示，表示成功
 
-<center><img src="https://i.klyi.net/tk/2021/02/16/fcqbt13g.png" alt="3.png" title="3.png" /></center>
+<center><img src="https://pic.mqs.hk/2021/02/16/afb828778eaa0.png" alt="3.png" title="3.png" /></center>
 
 ## 注意事项
 
