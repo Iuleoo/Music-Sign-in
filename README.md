@@ -16,7 +16,7 @@
 支持多账号，账号之间与密码之间用 ***#*** 分隔，账号与密码的个数要对应
 
 示例：**USER:13800000000#13800000001**，**PWD:cxkjntm#jntmcxk**
-<center><img src="https://i.klyi.net/tk/2021/02/16/m5i0utbi.png" alt="2.png" title="2.png" /></center>
+<center><img src="https://pic.iqy.ink/2021/02/16/9cc5540be73c3.png" alt="2.png" title="2.png" /></center>
 
 ### 三、启用 Action
 1. 点击 ***Actions***，再点击 **I understand my workflows, go ahead and enable them**
