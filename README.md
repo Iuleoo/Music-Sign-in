@@ -2,7 +2,7 @@
 > 网易云音乐自动登录签到 + 刷歌 310 首
 
 ## Github Actions 部署指南
-
+![yRI.png](https://i.klyi.net/images/2021/02/17/yRI.png)
 ### 一、Fork 此仓库
 <center><img src="https://i.klyi.net/images/tk/2021/02/17/Lst.png" alt="1" border="0"></center>
 
