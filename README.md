@@ -4,7 +4,7 @@
 ## Github Actions 部署指南
 
 ### 一、Fork 此仓库
-<center><img src="http://i.klyi.net/tk/2021/02/16/bgk6fbxx.png" alt="1.png" title="1.png" /></center>
+<center><img src="https://i.klyi.net/images/tk/2021/02/17/Lst.png" alt="1" border="0"></center>
 
 
 
@@ -16,7 +16,7 @@
 支持多账号，账号之间与密码之间用 ***#*** 分隔，账号与密码的个数要对应
 
 示例：**USER:13800000000#13800000001**，**PWD:cxkjntm#jntmcxk**
-<center><img src="https://pic.iqy.ink/2021/02/16/9cc5540be73c3.png" alt="2.png" title="2.png" /></center>
+<center><img src="https://i.klyi.net/images/tk/2021/02/17/xHr.png" alt="2" border="0"></center>
 
 ### 三、启用 Action
 1. 点击 ***Actions***，再点击 **I understand my workflows, go ahead and enable them**
@@ -28,7 +28,7 @@
 >
 > 能看到如下图所示，表示成功
 
-<center><img src="https://pic.mqs.hk/2021/02/16/afb828778eaa0.png" alt="3.png" title="3.png" /></center>
+<center><img src="https://i.klyi.net/images/tk/2021/02/17/MhM.png" alt="3" border="0"></center>
 
 ## 注意事项
 
